@@ -1,26 +1,28 @@
 # Curso Full-Stack Pro
 
-Este repositório contém os projetos desenvolvidos durante o curso **Full-Stack Pro do Sujeito Programador**.
+Este repositório contém os projetos desenvolvidos durante o curso Full-Stack Pro do Sujeito Programador.
 
 O objetivo é acompanhar minha evolução no desenvolvimento full-stack, organizando os projetos de forma estruturada e prática.
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
-- Projeto 1: Site Portfólio
-- Projeto 2: Instaclone
-- Projeto 3: Pagina de login
-- Projeto 4:Feed
+- Aulas
+- DesafioFeed
+- DesafioJsES6+1
+- DesafioJsES6+2
+- Instaclone
+- Mega-Sena
+- Pagina-Login
+- SitePortfolio
 
-## 🚀 Tecnologias utilizadas (até o momento)
+## Tecnologias utilizadas (até o momento)
 
 - HTML
 - CSS
 - JavaScript
 
-## 📌 Objetivo
+## Objetivo
 
 Praticar desenvolvimento web desde o básico, construindo projetos reais e evoluindo gradualmente até o full-stack.
 
----
-
-✍️ Repositório em constante evolução conforme avanço no curso.
+Repositório em constante evolução conforme avanço no curso.
